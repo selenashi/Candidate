@@ -8,10 +8,13 @@ require './filters'
 ## Your test code can go here
 
 
-pp experienced?(@candidates[1])
+# pp experienced?(@candidates[1])
 
-pp find(10)
+# pp find(10)
 
-pp qualified_candidates(@candidates)
+# pp qualified_candidates(@candidates)
 
-pp ordered_by_qualifications(@candidates)
+# pp ordered_by_qualifications(@candidates)
+
+pp menu
+ 
